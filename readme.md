@@ -29,6 +29,8 @@ This script generates images from text prompts using the FLUX.1 diffusion model.
 * `numpy`
 * `scikit-image` (for the improved emergency decode function)
 
+This workflow works perfectly in comfyui, but when I try to code it as a python script, the images are low resolution and very poor quality. Any help or suggestions would be appreciated!
+
 You can install these dependencies using pip:
 
 ```bash
